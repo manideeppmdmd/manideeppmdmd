@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ## 📈 GitHub Stats
 
-![Manideep's GitHub stats](https://github-readme-stats.vercel.app/api?username=manideeppmdmd&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manideeppmdmd&layout=compact&theme=radical)
 
 ## 📫 How to reach me
