@@ -14,9 +14,6 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 - **Frameworks:** Node.js, Express, React, Spring, Spring Boot, Angular, Docker, Kubernetes, Flutter, REST, J2EE, Jenkins, Agile
 - **Tools:** Git, Jira, SQL Developer, Postman, Figma, Latex
 
-## 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manideeppmdmd&layout=compact&theme=radical)
 
 ## 📫 How to reach me
 
