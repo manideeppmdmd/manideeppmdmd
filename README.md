@@ -1,1 +1,29 @@
-hi hello 
+# Hi there, I'm Manideep! 👋
+
+Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies and improve my skills. Here you will find various projects that I have worked on, ranging from web development to data science.
+
+## 🚀 About Me
+
+- 💼 Software Developer
+- 🎓 Graduate in Computer Science
+- 🌐 Interested in Web Development, Machine Learning, and Open Source
+
+## 🛠️ Technologies & Tools
+
+- **Languages and Databases:** Java, Python, JavaScript, Dart, HTML, CSS, JSP, SQL, NoSQL, MySQL, MongoDB
+- **Frameworks:** Node.js, Express, React, Spring, Spring Boot, Angular, Docker, Kubernetes, Flutter, REST, J2EE, Jenkins, Agile
+- **Tools:** Git, Jira, SQL Developer, Postman, Figma, Latex
+
+## 📈 GitHub Stats
+
+![Manideep's GitHub stats](https://github-readme-stats.vercel.app/api?username=manideeppmdmd&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manideeppmdmd&layout=compact&theme=radical)
+
+## 📫 How to reach me
+
+- LinkedIn: [Manideep Pilli](https://www.linkedin.com/in/manideep-pilli/)
+- Email: manideep.pmd@gmail.com
+
+---
+
+Thank you for visiting my profile! Have a great day! 😊
