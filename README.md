@@ -17,7 +17,6 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ## How to reach me
 
-- LinkedIn: [Manideep Pilli](https://www.linkedin.com/in/manideep-pilli/)
 - Email: manideep.pmd@gmail.com
 
 ---
