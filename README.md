@@ -15,10 +15,6 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 - **Tools:** Git, Jira, SQL Developer, Postman, Figma, Latex
 
 
-## How to reach me
-
-- Email: manideep.pmd@gmail.com
-
 ---
 
 Thank you for visiting my profile! Have a great day! 😊
